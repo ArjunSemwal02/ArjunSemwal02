@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArjunSemwal02
 - 👀 I’m interested in Creating Apps
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on 3D Games Development
+- 💞️ I’m looking to collaborate on 3D Game Development
 - 📫 How to reach me- arjunsemwal02@outlook.com
 
 <!---
